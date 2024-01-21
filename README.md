@@ -2,7 +2,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/danlyo0206/">
+<a href="https://www.linkedin.com/in/danylo-oleksiichuk-150a072ab">
   <img align="left" alt="Danylo's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -10,7 +10,7 @@
   <img align="left" alt="Danylo's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://twitter.com/danlyo0206">
+<a href="https://twitter.com/OleksiichukD">
   <img align="left" alt="Danylo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -79,13 +79,13 @@ _Since you don't want to leave my profile just yet! Here are a few things you ca
 
 ❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Telegram Badge](https://img.shields.io/badge/-Danylo_Oleksiichuk-2399ff?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/danylo0206/)](https://t.me/danylo0206)
 
-❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Danylo_Olkesiichk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danylo0206/)](https://www.linkedin.com/in/danylo0206/)
+❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Danylo_Olkesiichk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danylo-oleksiichuk-150a072ab/)](https://www.linkedin.com/in/danylo-oleksiichuk-150a072ab)
 or [![Gmail Badge](https://img.shields.io/badge/-crazydev0206@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crazydev0206@gmail.com)](mailto:crazydev0206@gmail.com)
 
-❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/CrazyDevTalks?label=Follow&style=social)](https://github.com/CrazyDevTalks/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@danylo0206-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danlyo0206)](https://twitter.com/danylo0206)
+❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/CrazyDevTalks?label=Follow&style=social)](https://github.com/CrazyDevTalks/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@OleksiichukD-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/OleksiichukD)](https://twitter.com/OleksiichukD)
 and be a part of my journey... and See if I can make it or not!
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Danylo_Oleksiichuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danlyo0206/)](https://www.linkedin.com/in/danlyo0206/)
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Danylo_Oleksiichuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danylo-oleksiichuk-150a072ab/)](https://www.linkedin.com/in/danylo-oleksiichuk-150a072ab/)
 
 <hr/>
 
